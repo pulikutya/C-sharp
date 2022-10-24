@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suli", "Suli\Suli.csproj", "{C3833583-4591-4B19-8E57-DF6EE6344585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3833583-4591-4B19-8E57-DF6EE6344585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3833583-4591-4B19-8E57-DF6EE6344585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3833583-4591-4B19-8E57-DF6EE6344585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3833583-4591-4B19-8E57-DF6EE6344585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14C773A4-475F-4449-865B-B4BEF6DF54A2}
+	EndGlobalSection
+EndGlobal
