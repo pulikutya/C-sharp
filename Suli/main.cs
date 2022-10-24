@@ -22,5 +22,13 @@ for(int i = 0; i < c; i++)
 }
 ;
 
-Rendezések.beillesztéses_rendezés(tesztLista);
-ListaKiír(tesztLista);
+Rendezett.RendezettLista rl = new Rendezett.RendezettLista();
+
+rl.Hozzáad(69);
+rl.Hozzáad(420);
+rl.Hozzáad(-1);
+rl.Hozzáad(-9999);
+rl.Töröl(-1);
+rl.Hozzáad(435324535);
+
+ListaKiír(rl.Tartalom);
